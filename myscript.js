@@ -24,5 +24,4 @@ function promise(){
       //Reject callback
       console.log(err);
   });
-  
 }
