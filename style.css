@@ -1,0 +1,7 @@
+/*removing unnecessary space from body*/
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+    left: 1%; /*leaving little space on left side*/
+    }
